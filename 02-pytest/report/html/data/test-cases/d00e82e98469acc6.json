@@ -1,0 +1,76 @@
+{
+  "uid" : "d00e82e98469acc6",
+  "name" : "Test1.test_hello2",
+  "fullName" : "02-setup+teardown.Test1.test_hello2",
+  "historyId" : "3b11efd596275629f308a49e3e45fbab",
+  "time" : {
+    "start" : 1581992833967,
+    "stop" : 1581992833968,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5f98562f3221ac4",
+      "name" : "hello2",
+      "source" : "b5f98562f3221ac4.txt",
+      "type" : "text/plain",
+      "size" : 39
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PC201711"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "6676-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "02-setup+teardown"
+  }, {
+    "name" : "testClass",
+    "value" : "02-setup+teardown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1.test_hello2"
+  }, {
+    "name" : "package",
+    "value" : "02-setup+teardown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d00e82e98469acc6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,40 @@
+{
+  "b6e0cd26626c2581e6d9cbc1295177f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a531ae7cd13261a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581992833963,
+        "stop" : 1581992833966,
+        "duration" : 3
+      }
+    } ]
+  },
+  "3b11efd596275629f308a49e3e45fbab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d00e82e98469acc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581992833967,
+        "stop" : 1581992833968,
+        "duration" : 1
+      }
+    } ]
+  }
+}

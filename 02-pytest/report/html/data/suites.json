@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "02-setup+teardown",
+    "children" : [ {
+      "name" : "Test1.test_hello1",
+      "uid" : "a531ae7cd13261a5",
+      "parentUid" : "3981db63e6fb5fd09869a3b0168a7b0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581992833963,
+        "stop" : 1581992833966,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test1.test_hello2",
+      "uid" : "d00e82e98469acc6",
+      "parentUid" : "3981db63e6fb5fd09869a3b0168a7b0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581992833967,
+        "stop" : 1581992833968,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3981db63e6fb5fd09869a3b0168a7b0b"
+  } ]
+}

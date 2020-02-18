@@ -1,0 +1,27 @@
+
+# 字典
+#name: 杨雪妍
+#age: 25
+
+#列表
+#- "1"
+#- "2"
+#- "3"
+
+#{total:1,person:{name:yangxueyan,age:25}}
+#tatal: 1
+#person:
+#  name: "yangxueayan"
+#  age : 25
+
+#{total:1,person:[yangxueyan,zhaoyang]}
+#total: 1
+#person:
+#  - "yangxueyan"
+#  - "zhaoyang"
+
+#[1,{name:yangxueyan,age:25},wuman]
+- 1
+- name: yangxueyan
+  age : 25
+- "wuman"
